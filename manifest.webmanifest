@@ -1,0 +1,19 @@
+{
+  "id": "./",
+  "name": "Wise Parrot Junior School — Management System",
+  "short_name": "WP Admin",
+  "description": "Admissions, fees, results, payroll, uniforms, inventory and school administration for Wise Parrot Junior School.",
+  "start_url": "./?source=pwa",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0b1230",
+  "theme_color": "#0b1230",
+  "lang": "en",
+  "dir": "ltr",
+  "categories": ["education", "business"],
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
